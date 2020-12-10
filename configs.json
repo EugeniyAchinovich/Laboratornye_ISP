@@ -1,0 +1,10 @@
+{
+"sourceFolder": "C:\\Users\\Asus\\Desktop\\SourceFolder",
+"targetFolder": "C:\\Users\\Asus\\Desktop\\TargetFolder",
+"archive": "C:\\Users\\Asus\\Desktop\\TargetFolder\\Archive",
+"needToArchive": true,
+"needToCompress": true,
+"needToEncrypt": true,
+"archiveDateOnly": true,
+"encryptingKey": "key"
+}

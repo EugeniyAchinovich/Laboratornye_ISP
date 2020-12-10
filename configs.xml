@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xmlCFGs>
+  <xmlCFG CONFIGS="CONFIGS">
+    <sourceFolder>"C:\\Users\\Asus\\Desktop\\SourceFolder"</sourceFolder>
+	<targetFolder>"C:\\Users\\Asus\\Desktop\\TargetFolder"</targetFolder>
+	<archive>"C:\\Users\\Asus\\Desktop\\TargetFolder\\Archive"</archive>
+	<archiveDateOnly>true</archiveDateOnly>
+	<needToArchive>true</needToArchive>
+	<needToCompress>true</needToCompress>
+	<needToEncrypt>true</needToEncrypt>
+	<cypherKey>"key"</cypherKey>
+  </xmlCFG >
+
+</xmlCFGs>
